@@ -5,4 +5,4 @@ Home of POsitive World
 (coming soon ...)
 
 
-![hpow](/hpow.png)
+![hpow](https://raw.githubusercontent.com/cssbramspace1/hpow.ml/master/img/hpow.png)
