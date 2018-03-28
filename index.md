@@ -6,4 +6,3 @@ Home of POsitive World
 
 
 ![Image](hpow.png)
-```
