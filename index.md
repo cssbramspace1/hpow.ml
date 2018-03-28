@@ -5,4 +5,4 @@ Home of POsitive World
 (coming soon ...)
 
 
-![Image](hpow.png)
+![hpow](/hpow.png)
